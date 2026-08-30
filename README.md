@@ -7,7 +7,7 @@
 
 ## SIH26-A0H-T284
 ### Team Details
-#### **Team Name: Krayons** <> <br/>
+#### **Team Name: Krayons** <br/>
 #### Team Members
 |         Role    |         👤 Name          |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:--------------------------|:----------------------:|:---------------:|:-------------------------------:| 
