@@ -38,7 +38,7 @@
 
 #### PS#2
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Problem Statement ID: SIH26112 **
+* **Problem Statement Title: Design and Develop a Modular Autonomous Mobile Robot (AMR) Platform for Smart Warehouse Automation **
+* **Theme / Category: Robotics and Drones / Hardware **
+* **Ministry / Organization: 	Autodesk **, wherever applicable
