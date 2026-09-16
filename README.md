@@ -12,12 +12,12 @@ Youtube link : https://youtu.be/-RjVcD59Mtw?si=Ue0VPwM_EDtJTr-l
 #### Team Members
 |         Role    |         👤 Name          |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:--------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |     G A YUVAN             |    CB.EN.U4ARE25014    |     Male        |    Automation and Robotics      |  
-|    Member 2     |     Hariharan J           |    CB.EN.U4ARE25020    |     Male        |    Automation and Robotics      |  
-|    Member 3     |     Subanesh J L          |    CB.EN.U4ARE25051    |     Male        |    Automation and Robotics      |  
-|    Member 4     |     Abishekapriyan M      |    CB.EN.U4ARE25002    |     Male        |    Automation and Robotics      |   
-|    Member 5     |     Rupesh Gokula Krishnan|    CB.EN.U4ARE25038    |     Male        |    Automation and Robotics      |  
-|    Member 6     |     Dharsshini BA          |    CB.EN.U4ARE25013    |     Female      |    Automation and Robotics      |   
+|   Team Leader   |     G A YUVAN             |    CB.EN.U4ARE25014    |     Male        |    Automation and Robotics/B.Tech      |  
+|    Member 2     |     Hariharan J           |    CB.EN.U4ARE25020    |     Male        |    Automation and Robotics/B.Tech      |  
+|    Member 3     |     Subanesh J L          |    CB.EN.U4ARE25051    |     Male        |    Automation and Robotics/B.Tech      |  
+|    Member 4     |     Abishekapriyan M      |    CB.EN.U4ARE25002    |     Male        |    Automation and Robotics/B.Tech      |   
+|    Member 5     |     Rupesh Gokula Krishnan|    CB.EN.U4ARE25038    |     Male        |    Automation and Robotics/B.Tech      |  
+|    Member 6     |     Dharsshini BA          |    CB.EN.U4ARE25013    |     Female      |    Automation and Robotics/B.Tech      |   
 
 #### Mentor Details
 
