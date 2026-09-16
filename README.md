@@ -17,7 +17,7 @@ Youtube link : https://youtu.be/-RjVcD59Mtw?si=Ue0VPwM_EDtJTr-l
 |    Member 3     |     Subanesh J L          |    CB.EN.U4ARE25051    |     Male        |    Automation and Robotics      |  
 |    Member 4     |     Abishekapriyan M      |    CB.EN.U4ARE25002    |     Male        |    Automation and Robotics      |   
 |    Member 5     |     Rupesh Gokula Krishnan|    CB.EN.U4ARE25038    |     Male        |    Automation and Robotics      |  
-|    Member 6     |     Dharshini BA          |    CB.EN.U4ARE25013    |     Female      |    Automation and Robotics      |   
+|    Member 6     |     Dharsshini BA          |    CB.EN.U4ARE25013    |     Female      |    Automation and Robotics      |   
 
 #### Mentor Details
 
