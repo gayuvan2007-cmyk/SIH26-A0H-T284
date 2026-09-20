@@ -17,7 +17,7 @@
 |    Member 3     |     Subanesh J L          |    CB.EN.U4ARE25051    |     Male        |    Automation and Robotics/B.Tech      |  BC        |    None              |
 |    Member 4     |     Abishekapriyan M      |    CB.EN.U4ARE25002    |     Male        |    Automation and Robotics/B.Tech      |  BC        |    None              |
 |    Member 5     |     Rupesh Gokula Krishnan|    CB.EN.U4ARE25038    |     Male        |    Automation and Robotics/B.Tech      |  Others    |    None              |
-|    Member 6     |     Dharsshini BA          |    CB.EN.U4ARE25013    |     Female      |    Automation and Robotics/B.Tech     |  OC        |    None              |
+|    Member 6     |     Dharsshini BA          |    CB.EN.U4ARE25013    |     Female      |    Automation and Robotics/B.Tech     |  BC        |    None              |
 
 #### Mentor Details
 
