@@ -10,14 +10,14 @@
 #### **Team Name: Krayons** <br/>
 
 #### Team Members
-|         Role    |         👤 Name          |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
-|:---------------:|:--------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |     G A YUVAN             |    CB.EN.U4ARE25014    |     Male        |    Automation and Robotics/B.Tech      |  
-|    Member 2     |     Hariharan J           |    CB.EN.U4ARE25020    |     Male        |    Automation and Robotics/B.Tech      |  
-|    Member 3     |     Subanesh J L          |    CB.EN.U4ARE25051    |     Male        |    Automation and Robotics/B.Tech      |  
-|    Member 4     |     Abishekapriyan M      |    CB.EN.U4ARE25002    |     Male        |    Automation and Robotics/B.Tech      |   
-|    Member 5     |     Rupesh Gokula Krishnan|    CB.EN.U4ARE25038    |     Male        |    Automation and Robotics/B.Tech      |  
-|    Member 6     |     Dharsshini BA          |    CB.EN.U4ARE25013    |     Female      |    Automation and Robotics/B.Tech      |   
+|         Role    |         👤 Name          |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |   Caste category  |  Disability Details  |
+|:---------------:|:--------------------------|:----------------------:|:---------------:|:-------------------------------:|:-----------------:|:-------------------|
+|   Team Leader   |     G A YUVAN             |    CB.EN.U4ARE25014    |     Male        |    Automation and Robotics/B.Tech      |  Others    |  None              |
+|    Member 2     |     Hariharan J           |    CB.EN.U4ARE25020    |     Male        |    Automation and Robotics/B.Tech      |  Others    |  None              |
+|    Member 3     |     Subanesh J L          |    CB.EN.U4ARE25051    |     Male        |    Automation and Robotics/B.Tech      |  BC        |  None              |
+|    Member 4     |     Abishekapriyan M      |    CB.EN.U4ARE25002    |     Male        |    Automation and Robotics/B.Tech      |  BC        |  None              |
+|    Member 5     |     Rupesh Gokula Krishnan|    CB.EN.U4ARE25038    |     Male        |    Automation and Robotics/B.Tech      |  Others    |  None              |
+|    Member 6     |     Dharsshini BA          |    CB.EN.U4ARE25013    |     Female      |    Automation and Robotics/B.Tech     |  OC        |  None              |
 
 #### Mentor Details
 
